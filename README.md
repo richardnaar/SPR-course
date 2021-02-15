@@ -1,4 +1,6 @@
 # SPR-2021
+# Aitäh Haridus- ja noorteameti IT-akadeemiale, kes aitas selle kursuse teoks teha :)
+
 
 EST
 
