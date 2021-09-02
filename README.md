@@ -1,4 +1,7 @@
 # SPR-2021
+
+![alt text](https://github.com/richardnaar/SPR-course/blob/main/Loengud/SPR21v2.jpg?raw=true)
+
 # Aitäh Haridus- ja noorteameti IT-akadeemiale, kes aitas selle kursuse teoks teha :)
 
 
