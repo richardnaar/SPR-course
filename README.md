@@ -9,8 +9,7 @@ EST
 
 Kursus annab mitmete psühhofüsioloogiliste mõõdikute (sh aju elektrilise aktiivsuse, südame-, lihasaktiivsuse ja silmaliigutuste) praktilise mõõtmiskogemuse ja sissejuhatavad teadmised nende mõõdikute tööpõhimõtetest. Kursus annab oskuse luua lihtsamaid füsioloogiliste signaalide mõõtmistega kombineeritavaid programme ja eksperimente.
 
-[Kursuse reklaamklipp](https://www.youtube.com/watch?v=ankLmtijDNE)
-[Rohkem infot](https://ois2.ut.ee/#/courses/SVPH.00.058/version/cace951e-ffaa-58c4-ecf0-e446e0355b69/details)
+[Kursuse reklaamklipp](https://www.youtube.com/watch?v=ankLmtijDNE), [rohkem infot](https://ois2.ut.ee/#/courses/SVPH.00.058/version/cace951e-ffaa-58c4-ecf0-e446e0355b69/details)
 
 ENG
 
@@ -19,8 +18,7 @@ ENG
 
 This course gives a broad introduction to various psychophysiological signals and a first-hand experience with their measurement (including electrical activity of the brain, heart rate, muscle activity and eye movements). The course will teach how to create simpler programs and experiments that could be paired with the recordings.
 
-[Course trailer](https://www.youtube.com/watch?v=ankLmtijDNE)
-[More information](https://ois2.ut.ee/#/courses/SVPH.00.058/version/cace951e-ffaa-58c4-ecf0-e446e0355b69/details)
+[Course trailer](https://www.youtube.com/watch?v=ankLmtijDNE), [more information](https://ois2.ut.ee/#/courses/SVPH.00.058/version/cace951e-ffaa-58c4-ecf0-e446e0355b69/details)
 
 # Kursuse salvestused  / Course recordings
 
