@@ -4,17 +4,12 @@
 
 ### Aitäh Haridus- ja noorteameti IT-akadeemiale, kes aitas selle kursuse teoks teha :)
 
-
-## EST
-
 # Sissejuhatus psühhofüsioloogia rakendustesse
 
 
 Kursus annab mitmete psühhofüsioloogiliste mõõdikute (sh aju elektrilise aktiivsuse, südame-, lihasaktiivsuse ja silmaliigutuste) praktilise mõõtmiskogemuse ja sissejuhatavad teadmised nende mõõdikute tööpõhimõtetest. Kursus annab oskuse luua lihtsamaid füsioloogiliste signaalide mõõtmistega kombineeritavaid programme ja eksperimente.
 
 [Kursuse reklaamklipp](https://www.youtube.com/watch?v=ankLmtijDNE), [rohkem infot](https://ois2.ut.ee/#/courses/SVPH.00.058/version/cace951e-ffaa-58c4-ecf0-e446e0355b69/details)
-
-## ENG
 
 # Introduction to Applications in Psychophysiology
 
