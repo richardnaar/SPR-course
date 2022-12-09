@@ -4,6 +4,8 @@
 
 ### Aitäh Haridus- ja noorteameti IT-akadeemiale, kes aitas selle kursuse teoks teha :)
 
+Soovist kursusel kasutatud mõõtevahendeid laenutada kirjuta palun kursuse juhendajatele (richard.naar@ut.ee või iiris.tuvi@ut.ee).
+
 # Sissejuhatus psühhofüsioloogia rakendustesse
 
 
