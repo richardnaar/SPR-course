@@ -1,6 +1,6 @@
-# SPR-2022
+# SPR-2024
 
-![alt text](https://github.com/richardnaar/SPR-course/blob/main/Loengud/SPR22.jpg?raw=true)
+![alt text](https://github.com/richardnaar/SPR-course/blob/main/Loengud/SPR24.jpg?raw=true)
 
 ### Aitäh Haridus- ja noorteameti IT-akadeemiale, kes aitas selle kursuse teoks teha :)
 
